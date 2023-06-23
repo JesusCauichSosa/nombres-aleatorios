@@ -1,0 +1,39 @@
+html{
+    background-color: darkmagenta;
+    color: antiquewhite;
+}
+#name{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: darkmagenta;
+    color: white;
+    margin: 5px;
+}
+.container{
+    display: flex;
+    gap:10px;
+    margin: auto;
+    width: 400px;
+    background-color: black;
+    border: 1px solid white;
+}
+
+body{
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+}
+
+.buttom{
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Cube{
+    margin:auto;
+    background-color: black;
+}
